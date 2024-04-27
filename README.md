@@ -1,3 +1,2 @@
-# Cloths-ecoomerce-group1
-# adding Footer
+#Clothing-ecommerce-group
 
